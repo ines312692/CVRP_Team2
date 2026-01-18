@@ -1,0 +1,133 @@
+CVRP_Team2/
+├── common/
+│   ├── __pycache__/
+│   │   ├── __init__.cpython-312.pyc
+│   │   ├── cost.cpython-312.pyc
+│   │   ├── feasibility.cpython-312.pyc
+│   │   ├── reader.cpython-312.pyc
+│   │   └── utils.cpython-312.pyc
+│   ├── __init__.py
+│   ├── cost.py
+│   ├── feasibility.py
+│   ├── reader.py
+│   └── utils.py
+├── heuristics/
+│   ├── __pycache__/
+│   │   ├── __init__.cpython-312.pyc
+│   │   ├── greedy.cpython-312.pyc
+│   │   ├── local_search.cpython-312.pyc
+│   │   ├── simulated_annealing.cpython-312.pyc
+│   │   └── tabu_search.cpython-312.pyc
+│   ├── __init__.py
+│   ├── greedy.py
+│   ├── local_search.py
+│   ├── simulated_annealing.py
+│   └── tabu_search.py
+├── instances/
+│   ├── A/
+│   │   ├── A-n32-k5.sol
+│   │   ├── A-n32-k5.vrp
+│   │   ├── A-n33-k5.sol
+│   │   ├── A-n33-k5.vrp
+│   │   ├── A-n33-k6.sol
+│   │   ├── A-n33-k6.vrp
+│   │   ├── A-n34-k5.sol
+│   │   ├── A-n34-k5.vrp
+│   │   ├── A-n36-k5.sol
+│   │   ├── A-n36-k5.vrp
+│   │   ├── A-n37-k5.sol
+│   │   ├── A-n37-k5.vrp
+│   │   ├── A-n37-k6.sol
+│   │   ├── A-n37-k6.vrp
+│   │   ├── A-n38-k5.sol
+│   │   ├── A-n38-k5.vrp
+│   │   ├── A-n39-k5.sol
+│   │   ├── A-n39-k5.vrp
+│   │   ├── A-n39-k6.sol
+│   │   ├── A-n39-k6.vrp
+│   │   ├── A-n44-k6.sol
+│   │   ├── A-n44-k6.vrp
+│   │   ├── A-n45-k6.sol
+│   │   ├── A-n45-k6.vrp
+│   │   ├── A-n45-k7.sol
+│   │   ├── A-n45-k7.vrp
+│   │   ├── A-n46-k7.sol
+│   │   ├── A-n46-k7.vrp
+│   │   ├── A-n48-k7.sol
+│   │   ├── A-n48-k7.vrp
+│   │   ├── A-n53-k7.sol
+│   │   ├── A-n53-k7.vrp
+│   │   ├── A-n54-k7.sol
+│   │   ├── A-n54-k7.vrp
+│   │   ├── A-n55-k9.sol
+│   │   ├── A-n55-k9.vrp
+│   │   ├── A-n60-k9.sol
+│   │   ├── A-n60-k9.vrp
+│   │   ├── A-n61-k9.sol
+│   │   ├── A-n61-k9.vrp
+│   │   ├── A-n62-k8.sol
+│   │   ├── A-n62-k8.vrp
+│   │   ├── A-n63-k10.sol
+│   │   ├── A-n63-k10.vrp
+│   │   ├── A-n63-k9.sol
+│   │   ├── A-n63-k9.vrp
+│   │   ├── A-n64-k9.sol
+│   │   ├── A-n64-k9.vrp
+│   │   ├── A-n65-k9.sol
+│   │   ├── A-n65-k9.vrp
+│   │   ├── A-n69-k9.sol
+│   │   ├── A-n69-k9.vrp
+│   │   ├── A-n80-k10.sol
+│   │   └── A-n80-k10.vrp
+│   ├── B/
+│       ├── B-n31-k5.sol
+│       ├── B-n31-k5.vrp
+│       ├── B-n34-k5.sol
+│       ├── B-n34-k5.vrp
+│       ├── B-n35-k5.sol
+│       ├── B-n35-k5.vrp
+│       ├── B-n38-k6.sol
+│       ├── B-n38-k6.vrp
+│       ├── B-n39-k5.sol
+│       ├── B-n39-k5.vrp
+│       ├── B-n41-k6.sol
+│       ├── B-n41-k6.vrp
+│       ├── B-n43-k6.sol
+│       ├── B-n43-k6.vrp
+│       ├── B-n44-k7.sol
+│       ├── B-n44-k7.vrp
+│       ├── B-n45-k5.sol
+│       ├── B-n45-k5.vrp
+│       ├── B-n45-k6.sol
+│       ├── B-n45-k6.vrp
+│       ├── B-n50-k7.sol
+│       ├── B-n50-k7.vrp
+│       ├── B-n50-k8.sol
+│       ├── B-n50-k8.vrp
+│       ├── B-n51-k7.sol
+│       ├── B-n51-k7.vrp
+│       ├── B-n52-k7.sol
+│       ├── B-n52-k7.vrp
+│       ├── B-n56-k7.sol
+│       ├── B-n56-k7.vrp
+│       ├── B-n57-k7.sol
+│       ├── B-n57-k7.vrp
+│       ├── B-n57-k9.sol
+│       ├── B-n57-k9.vrp
+│       ├── B-n63-k10.sol
+│       ├── B-n63-k10.vrp
+│       ├── B-n64-k9.sol
+│       ├── B-n64-k9.vrp
+│       ├── B-n66-k9.sol
+│       ├── B-n66-k9.vrp
+│       ├── B-n67-k10.sol
+│       ├── B-n67-k10.vrp
+│       ├── B-n68-k9.sol
+│       ├── B-n68-k9.vrp
+│       ├── B-n78-k10.sol
+│       └── B-n78-k10.vrp
+├── results/
+│   └── demo_results.json
+├── README.md
+├── download_instances.py
+└── main.py
