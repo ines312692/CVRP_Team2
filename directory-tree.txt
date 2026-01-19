@@ -127,7 +127,13 @@ CVRP_Team2/
 │       ├── B-n78-k10.sol
 │       └── B-n78-k10.vrp
 ├── results/
-│   └── demo_results.json
+│   ├── A-n32-k5_results.json
+│   ├── A-n33-k5_results.json
+│   ├── A-n33-k6_results.json
+│   ├── A-n34-k5_results.json
+│   ├── demo_results.json
+│   └── detailed_report.json
 ├── README.md
+├── directory-tree.txt
 ├── download_instances.py
 └── main.py
