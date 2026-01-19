@@ -1,0 +1,766 @@
+[
+  {
+    "instance": "demo-test",
+    "method": "Nearest Neighbor",
+    "best_cost": 312.96,
+    "execution_time": 0.0,
+    "feasible": true,
+    "timestamp": "2026-01-19T19:47:50.310231",
+    "optimal": 250.0,
+    "gap": 25.19,
+    "solution": [
+      [
+        1,
+        5,
+        8,
+        3,
+        7,
+        1
+      ],
+      [
+        1,
+        4,
+        10,
+        6,
+        1
+      ],
+      [
+        1,
+        9,
+        2,
+        1
+      ]
+    ],
+    "num_routes": 3
+  },
+  {
+    "instance": "demo-test",
+    "method": "Nearest Neighbor Enhanced",
+    "best_cost": 312.96,
+    "execution_time": 0.0,
+    "feasible": true,
+    "timestamp": "2026-01-19T19:47:50.310867",
+    "optimal": 250.0,
+    "gap": 25.19,
+    "solution": [
+      [
+        1,
+        4,
+        10,
+        6,
+        1
+      ],
+      [
+        1,
+        5,
+        8,
+        3,
+        7,
+        1
+      ],
+      [
+        1,
+        9,
+        2,
+        1
+      ]
+    ],
+    "num_routes": 3
+  },
+  {
+    "instance": "demo-test",
+    "method": "Savings Parallel",
+    "best_cost": 276.63,
+    "execution_time": 0.0001,
+    "feasible": true,
+    "timestamp": "2026-01-19T19:47:50.310867",
+    "optimal": 250.0,
+    "gap": 10.65,
+    "solution": [
+      [
+        1,
+        6,
+        9,
+        2,
+        5,
+        1
+      ],
+      [
+        1,
+        3,
+        8,
+        1
+      ],
+      [
+        1,
+        4,
+        7,
+        10,
+        1
+      ]
+    ],
+    "num_routes": 3
+  },
+  {
+    "instance": "demo-test",
+    "method": "Savings Sequential",
+    "best_cost": 479.32,
+    "execution_time": 0.0,
+    "feasible": true,
+    "timestamp": "2026-01-19T19:47:50.310867",
+    "optimal": 250.0,
+    "gap": 91.73,
+    "solution": [
+      [
+        1,
+        7,
+        2,
+        3,
+        9,
+        1
+      ],
+      [
+        1,
+        10,
+        8,
+        6,
+        1
+      ],
+      [
+        1,
+        5,
+        4,
+        1
+      ]
+    ],
+    "num_routes": 3
+  },
+  {
+    "instance": "demo-test",
+    "method": "Sequential Insertion",
+    "best_cost": 276.63,
+    "execution_time": 0.0,
+    "feasible": true,
+    "timestamp": "2026-01-19T19:47:50.310867",
+    "optimal": 250.0,
+    "gap": 10.65,
+    "solution": [
+      [
+        1,
+        5,
+        2,
+        9,
+        6,
+        1
+      ],
+      [
+        1,
+        4,
+        7,
+        10,
+        1
+      ],
+      [
+        1,
+        8,
+        3,
+        1
+      ]
+    ],
+    "num_routes": 3
+  },
+  {
+    "instance": "demo-test",
+    "method": "Sweep",
+    "best_cost": 299.51,
+    "execution_time": 0.0,
+    "feasible": true,
+    "timestamp": "2026-01-19T19:47:50.310867",
+    "optimal": 250.0,
+    "gap": 19.81,
+    "solution": [
+      [
+        1,
+        2,
+        9,
+        6,
+        10,
+        1
+      ],
+      [
+        1,
+        4,
+        7,
+        3,
+        1
+      ],
+      [
+        1,
+        8,
+        5,
+        1
+      ]
+    ],
+    "num_routes": 3
+  },
+  {
+    "instance": "demo-test",
+    "method": "Local Search (Nearest Neighbor)",
+    "best_cost": 276.63,
+    "execution_time": 1.2068,
+    "feasible": true,
+    "timestamp": "2026-01-19T19:47:51.517177",
+    "optimal": 250.0,
+    "gap": 10.65,
+    "solution": [
+      [
+        1,
+        8,
+        3,
+        1
+      ],
+      [
+        1,
+        10,
+        7,
+        4,
+        1
+      ],
+      [
+        1,
+        6,
+        9,
+        2,
+        5,
+        1
+      ]
+    ],
+    "num_routes": 3,
+    "initial_cost": 312.96306141562013,
+    "iterations": 1001,
+    "improvements": 1
+  },
+  {
+    "instance": "demo-test",
+    "method": "Local Search (Savings)",
+    "best_cost": 276.63,
+    "execution_time": 0.7161,
+    "feasible": true,
+    "timestamp": "2026-01-19T19:47:52.233626",
+    "optimal": 250.0,
+    "gap": 10.65,
+    "solution": [
+      [
+        1,
+        6,
+        9,
+        2,
+        5,
+        1
+      ],
+      [
+        1,
+        3,
+        8,
+        1
+      ],
+      [
+        1,
+        4,
+        7,
+        10,
+        1
+      ]
+    ],
+    "num_routes": 3,
+    "initial_cost": 276.63151646735207,
+    "iterations": 1000,
+    "improvements": 0
+  },
+  {
+    "instance": "demo-test",
+    "method": "Tabu Search (tenure=5)",
+    "best_cost": 276.63,
+    "execution_time": 0.3547,
+    "feasible": true,
+    "timestamp": "2026-01-19T19:47:52.588913",
+    "optimal": 250.0,
+    "gap": 10.65,
+    "solution": [
+      [
+        1,
+        8,
+        3,
+        1
+      ],
+      [
+        1,
+        4,
+        7,
+        10,
+        1
+      ],
+      [
+        1,
+        6,
+        9,
+        2,
+        5,
+        1
+      ]
+    ],
+    "num_routes": 3,
+    "initial_cost": 312.96306141562013,
+    "iterations": 500,
+    "improvements": 3,
+    "aspiration_used": 0,
+    "tabu_tenure": 5,
+    "initial_method": "Nearest Neighbor"
+  },
+  {
+    "instance": "demo-test",
+    "method": "Tabu Search (tenure=5)",
+    "best_cost": 276.63,
+    "execution_time": 0.2664,
+    "feasible": true,
+    "timestamp": "2026-01-19T19:47:52.856012",
+    "optimal": 250.0,
+    "gap": 10.65,
+    "solution": [
+      [
+        1,
+        6,
+        9,
+        2,
+        5,
+        1
+      ],
+      [
+        1,
+        3,
+        8,
+        1
+      ],
+      [
+        1,
+        4,
+        7,
+        10,
+        1
+      ]
+    ],
+    "num_routes": 3,
+    "initial_cost": 276.63151646735207,
+    "iterations": 500,
+    "improvements": 0,
+    "aspiration_used": 0,
+    "tabu_tenure": 5,
+    "initial_method": "Savings"
+  },
+  {
+    "instance": "demo-test",
+    "method": "Tabu Search (tenure=10)",
+    "best_cost": 276.63,
+    "execution_time": 0.4698,
+    "feasible": true,
+    "timestamp": "2026-01-19T19:47:53.325527",
+    "optimal": 250.0,
+    "gap": 10.65,
+    "solution": [
+      [
+        1,
+        8,
+        3,
+        1
+      ],
+      [
+        1,
+        4,
+        7,
+        10,
+        1
+      ],
+      [
+        1,
+        6,
+        9,
+        2,
+        5,
+        1
+      ]
+    ],
+    "num_routes": 3,
+    "initial_cost": 312.96306141562013,
+    "iterations": 500,
+    "improvements": 3,
+    "aspiration_used": 0,
+    "tabu_tenure": 10,
+    "initial_method": "Nearest Neighbor"
+  },
+  {
+    "instance": "demo-test",
+    "method": "Tabu Search (tenure=10)",
+    "best_cost": 276.63,
+    "execution_time": 0.5521,
+    "feasible": true,
+    "timestamp": "2026-01-19T19:47:53.878178",
+    "optimal": 250.0,
+    "gap": 10.65,
+    "solution": [
+      [
+        1,
+        6,
+        9,
+        2,
+        5,
+        1
+      ],
+      [
+        1,
+        3,
+        8,
+        1
+      ],
+      [
+        1,
+        4,
+        7,
+        10,
+        1
+      ]
+    ],
+    "num_routes": 3,
+    "initial_cost": 276.63151646735207,
+    "iterations": 500,
+    "improvements": 0,
+    "aspiration_used": 0,
+    "tabu_tenure": 10,
+    "initial_method": "Savings"
+  },
+  {
+    "instance": "demo-test",
+    "method": "Tabu Search (tenure=15)",
+    "best_cost": 276.63,
+    "execution_time": 0.7239,
+    "feasible": true,
+    "timestamp": "2026-01-19T19:47:54.602295",
+    "optimal": 250.0,
+    "gap": 10.65,
+    "solution": [
+      [
+        1,
+        8,
+        3,
+        1
+      ],
+      [
+        1,
+        4,
+        7,
+        10,
+        1
+      ],
+      [
+        1,
+        6,
+        9,
+        2,
+        5,
+        1
+      ]
+    ],
+    "num_routes": 3,
+    "initial_cost": 312.96306141562013,
+    "iterations": 500,
+    "improvements": 3,
+    "aspiration_used": 0,
+    "tabu_tenure": 15,
+    "initial_method": "Nearest Neighbor"
+  },
+  {
+    "instance": "demo-test",
+    "method": "Tabu Search (tenure=15)",
+    "best_cost": 276.63,
+    "execution_time": 0.5327,
+    "feasible": true,
+    "timestamp": "2026-01-19T19:47:55.135407",
+    "optimal": 250.0,
+    "gap": 10.65,
+    "solution": [
+      [
+        1,
+        6,
+        9,
+        2,
+        5,
+        1
+      ],
+      [
+        1,
+        3,
+        8,
+        1
+      ],
+      [
+        1,
+        4,
+        7,
+        10,
+        1
+      ]
+    ],
+    "num_routes": 3,
+    "initial_cost": 276.63151646735207,
+    "iterations": 500,
+    "improvements": 0,
+    "aspiration_used": 0,
+    "tabu_tenure": 15,
+    "initial_method": "Savings"
+  },
+  {
+    "instance": "demo-test",
+    "method": "Simulated Annealing (\u03b1=0.99)",
+    "best_cost": 276.63,
+    "execution_time": 0.6426,
+    "feasible": true,
+    "timestamp": "2026-01-19T19:47:55.777291",
+    "optimal": 250.0,
+    "gap": 10.65,
+    "solution": [
+      [
+        1,
+        6,
+        9,
+        2,
+        5,
+        1
+      ],
+      [
+        1,
+        4,
+        7,
+        10,
+        1
+      ],
+      [
+        1,
+        8,
+        3,
+        1
+      ]
+    ],
+    "num_routes": 3,
+    "initial_cost": 312.96306141562013,
+    "total_iterations": 45850,
+    "accepted": 26194,
+    "improvements": 3,
+    "cooling_rate": 0.99,
+    "initial_temp": 1000.0,
+    "initial_method": "Nearest Neighbor"
+  },
+  {
+    "instance": "demo-test",
+    "method": "Simulated Annealing (\u03b1=0.99)",
+    "best_cost": 276.63,
+    "execution_time": 0.6371,
+    "feasible": true,
+    "timestamp": "2026-01-19T19:47:56.414937",
+    "optimal": 250.0,
+    "gap": 10.65,
+    "solution": [
+      [
+        1,
+        6,
+        9,
+        2,
+        5,
+        1
+      ],
+      [
+        1,
+        3,
+        8,
+        1
+      ],
+      [
+        1,
+        4,
+        7,
+        10,
+        1
+      ]
+    ],
+    "num_routes": 3,
+    "initial_cost": 276.63151646735207,
+    "total_iterations": 45850,
+    "accepted": 26164,
+    "improvements": 0,
+    "cooling_rate": 0.99,
+    "initial_temp": 1000.0,
+    "initial_method": "Savings"
+  },
+  {
+    "instance": "demo-test",
+    "method": "Simulated Annealing (\u03b1=0.995)",
+    "best_cost": 276.63,
+    "execution_time": 1.4227,
+    "feasible": true,
+    "timestamp": "2026-01-19T19:47:57.837686",
+    "optimal": 250.0,
+    "gap": 10.65,
+    "solution": [
+      [
+        1,
+        3,
+        8,
+        1
+      ],
+      [
+        1,
+        10,
+        7,
+        4,
+        1
+      ],
+      [
+        1,
+        5,
+        2,
+        9,
+        6,
+        1
+      ]
+    ],
+    "num_routes": 3,
+    "initial_cost": 312.96306141562013,
+    "total_iterations": 91900,
+    "accepted": 52602,
+    "improvements": 11,
+    "cooling_rate": 0.995,
+    "initial_temp": 1000.0,
+    "initial_method": "Nearest Neighbor"
+  },
+  {
+    "instance": "demo-test",
+    "method": "Simulated Annealing (\u03b1=0.995)",
+    "best_cost": 276.63,
+    "execution_time": 1.7219,
+    "feasible": true,
+    "timestamp": "2026-01-19T19:47:59.559848",
+    "optimal": 250.0,
+    "gap": 10.65,
+    "solution": [
+      [
+        1,
+        6,
+        9,
+        2,
+        5,
+        1
+      ],
+      [
+        1,
+        3,
+        8,
+        1
+      ],
+      [
+        1,
+        4,
+        7,
+        10,
+        1
+      ]
+    ],
+    "num_routes": 3,
+    "initial_cost": 276.63151646735207,
+    "total_iterations": 91900,
+    "accepted": 52217,
+    "improvements": 0,
+    "cooling_rate": 0.995,
+    "initial_temp": 1000.0,
+    "initial_method": "Savings"
+  },
+  {
+    "instance": "demo-test",
+    "method": "Simulated Annealing (\u03b1=0.999)",
+    "best_cost": 276.63,
+    "execution_time": 7.2947,
+    "feasible": true,
+    "timestamp": "2026-01-19T19:48:06.854730",
+    "optimal": 250.0,
+    "gap": 10.65,
+    "solution": [
+      [
+        1,
+        3,
+        8,
+        1
+      ],
+      [
+        1,
+        6,
+        9,
+        2,
+        5,
+        1
+      ],
+      [
+        1,
+        4,
+        7,
+        10,
+        1
+      ]
+    ],
+    "num_routes": 3,
+    "initial_cost": 312.96306141562013,
+    "total_iterations": 460300,
+    "accepted": 261777,
+    "improvements": 6,
+    "cooling_rate": 0.999,
+    "initial_temp": 1000.0,
+    "initial_method": "Nearest Neighbor"
+  },
+  {
+    "instance": "demo-test",
+    "method": "Simulated Annealing (\u03b1=0.999)",
+    "best_cost": 276.63,
+    "execution_time": 7.5865,
+    "feasible": true,
+    "timestamp": "2026-01-19T19:48:14.441099",
+    "optimal": 250.0,
+    "gap": 10.65,
+    "solution": [
+      [
+        1,
+        6,
+        9,
+        2,
+        5,
+        1
+      ],
+      [
+        1,
+        3,
+        8,
+        1
+      ],
+      [
+        1,
+        4,
+        7,
+        10,
+        1
+      ]
+    ],
+    "num_routes": 3,
+    "initial_cost": 276.63151646735207,
+    "total_iterations": 460300,
+    "accepted": 260985,
+    "improvements": 0,
+    "cooling_rate": 0.999,
+    "initial_temp": 1000.0,
+    "initial_method": "Savings"
+  }
+]
