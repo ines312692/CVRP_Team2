@@ -1,0 +1,1386 @@
+[
+  {
+    "instance": "A-n33-k5",
+    "method": "Nearest Neighbor",
+    "best_cost": 978.15,
+    "execution_time": 0.0001,
+    "feasible": true,
+    "timestamp": "2026-01-19T20:42:55.536011",
+    "optimal": 661.0,
+    "gap": 47.98,
+    "solution": [
+      [
+        1,
+        23,
+        24,
+        29,
+        19,
+        12,
+        7,
+        25,
+        33,
+        1
+      ],
+      [
+        1,
+        3,
+        21,
+        5,
+        13,
+        11,
+        31,
+        27,
+        2,
+        1
+      ],
+      [
+        1,
+        16,
+        17,
+        4,
+        10,
+        18,
+        26,
+        1
+      ],
+      [
+        1,
+        32,
+        22,
+        15,
+        20,
+        30,
+        28,
+        6,
+        1
+      ],
+      [
+        1,
+        14,
+        9,
+        8,
+        1
+      ]
+    ],
+    "num_routes": 5
+  },
+  {
+    "instance": "A-n33-k5",
+    "method": "Nearest Neighbor Enhanced",
+    "best_cost": 904.0,
+    "execution_time": 0.0002,
+    "feasible": true,
+    "timestamp": "2026-01-19T20:42:55.536947",
+    "optimal": 661.0,
+    "gap": 36.76,
+    "solution": [
+      [
+        1,
+        23,
+        16,
+        3,
+        7,
+        25,
+        15,
+        1
+      ],
+      [
+        1,
+        24,
+        29,
+        19,
+        32,
+        20,
+        22,
+        2,
+        12,
+        1
+      ],
+      [
+        1,
+        14,
+        9,
+        8,
+        28,
+        26,
+        6,
+        27,
+        1
+      ],
+      [
+        1,
+        11,
+        31,
+        18,
+        10,
+        4,
+        33,
+        1
+      ],
+      [
+        1,
+        5,
+        13,
+        21,
+        17,
+        30,
+        1
+      ]
+    ],
+    "num_routes": 5
+  },
+  {
+    "instance": "A-n33-k5",
+    "method": "Savings Parallel",
+    "best_cost": 712.05,
+    "execution_time": 0.0008,
+    "feasible": true,
+    "timestamp": "2026-01-19T20:42:55.537941",
+    "optimal": 661.0,
+    "gap": 7.72,
+    "solution": [
+      [
+        1,
+        16,
+        5,
+        14,
+        33,
+        21,
+        3,
+        1
+      ],
+      [
+        1,
+        17,
+        4,
+        10,
+        18,
+        11,
+        13,
+        1
+      ],
+      [
+        1,
+        31,
+        26,
+        28,
+        6,
+        27,
+        8,
+        9,
+        1
+      ],
+      [
+        1,
+        7,
+        20,
+        15,
+        22,
+        2,
+        32,
+        30,
+        1
+      ],
+      [
+        1,
+        25,
+        12,
+        19,
+        29,
+        24,
+        23,
+        1
+      ]
+    ],
+    "num_routes": 5
+  },
+  {
+    "instance": "A-n33-k5",
+    "method": "Savings Sequential",
+    "best_cost": 2330.76,
+    "execution_time": 0.0001,
+    "feasible": true,
+    "timestamp": "2026-01-19T20:42:55.537941",
+    "optimal": 661.0,
+    "gap": 252.61,
+    "solution": [
+      [
+        1,
+        33,
+        20,
+        27,
+        22,
+        9,
+        2,
+        8,
+        15,
+        18,
+        1
+      ],
+      [
+        1,
+        12,
+        26,
+        32,
+        6,
+        30,
+        14,
+        10,
+        1
+      ],
+      [
+        1,
+        11,
+        25,
+        31,
+        7,
+        28,
+        1
+      ],
+      [
+        1,
+        13,
+        17,
+        21,
+        4,
+        5,
+        19,
+        3,
+        1
+      ],
+      [
+        1,
+        29,
+        16,
+        24,
+        23,
+        1
+      ]
+    ],
+    "num_routes": 5
+  },
+  {
+    "instance": "A-n33-k5",
+    "method": "Sequential Insertion",
+    "best_cost": 711.56,
+    "execution_time": 0.0005,
+    "feasible": true,
+    "timestamp": "2026-01-19T20:42:55.538950",
+    "optimal": 661.0,
+    "gap": 7.65,
+    "solution": [
+      [
+        1,
+        21,
+        33,
+        14,
+        9,
+        8,
+        27,
+        5,
+        23,
+        1
+      ],
+      [
+        1,
+        16,
+        18,
+        10,
+        4,
+        17,
+        24,
+        1
+      ],
+      [
+        1,
+        13,
+        6,
+        28,
+        26,
+        31,
+        11,
+        12,
+        1
+      ],
+      [
+        1,
+        29,
+        19,
+        32,
+        30,
+        2,
+        22,
+        15,
+        20,
+        1
+      ],
+      [
+        1,
+        3,
+        25,
+        7,
+        1
+      ]
+    ],
+    "num_routes": 5
+  },
+  {
+    "instance": "A-n33-k5",
+    "method": "Sweep",
+    "best_cost": 916.51,
+    "execution_time": 0.0,
+    "feasible": true,
+    "timestamp": "2026-01-19T20:42:55.538950",
+    "optimal": 661.0,
+    "gap": 38.65,
+    "solution": [
+      [
+        1,
+        3,
+        33,
+        14,
+        21,
+        9,
+        8,
+        27,
+        1
+      ],
+      [
+        1,
+        5,
+        6,
+        13,
+        28,
+        26,
+        31,
+        1
+      ],
+      [
+        1,
+        11,
+        18,
+        16,
+        10,
+        23,
+        1
+      ],
+      [
+        1,
+        17,
+        4,
+        30,
+        29,
+        24,
+        19,
+        32,
+        1
+      ],
+      [
+        1,
+        2,
+        22,
+        15,
+        12,
+        20,
+        7,
+        25,
+        1
+      ]
+    ],
+    "num_routes": 5
+  },
+  {
+    "instance": "A-n33-k5",
+    "method": "Local Search (Nearest Neighbor)",
+    "best_cost": 676.1,
+    "execution_time": 8.8278,
+    "feasible": true,
+    "timestamp": "2026-01-19T20:43:04.368004",
+    "optimal": 661.0,
+    "gap": 2.29,
+    "solution": [
+      [
+        1,
+        24,
+        7,
+        25,
+        3,
+        1
+      ],
+      [
+        1,
+        11,
+        31,
+        26,
+        28,
+        6,
+        13,
+        1
+      ],
+      [
+        1,
+        30,
+        17,
+        4,
+        10,
+        18,
+        16,
+        1
+      ],
+      [
+        1,
+        12,
+        20,
+        15,
+        22,
+        2,
+        32,
+        19,
+        29,
+        1
+      ],
+      [
+        1,
+        21,
+        33,
+        14,
+        9,
+        8,
+        27,
+        5,
+        23,
+        1
+      ]
+    ],
+    "num_routes": 5,
+    "initial_cost": 978.1456610175788,
+    "iterations": 1008,
+    "improvements": 8
+  },
+  {
+    "instance": "A-n33-k5",
+    "method": "Local Search (Savings)",
+    "best_cost": 697.16,
+    "execution_time": 15.9956,
+    "feasible": true,
+    "timestamp": "2026-01-19T20:43:20.364718",
+    "optimal": 661.0,
+    "gap": 5.47,
+    "solution": [
+      [
+        1,
+        23,
+        5,
+        14,
+        21,
+        3,
+        1
+      ],
+      [
+        1,
+        17,
+        4,
+        10,
+        18,
+        11,
+        13,
+        1
+      ],
+      [
+        1,
+        31,
+        26,
+        28,
+        6,
+        27,
+        8,
+        9,
+        33,
+        1
+      ],
+      [
+        1,
+        20,
+        15,
+        22,
+        2,
+        32,
+        30,
+        16,
+        1
+      ],
+      [
+        1,
+        25,
+        7,
+        12,
+        19,
+        29,
+        24,
+        1
+      ]
+    ],
+    "num_routes": 5,
+    "initial_cost": 712.0478209658985,
+    "iterations": 1001,
+    "improvements": 1
+  },
+  {
+    "instance": "A-n33-k5",
+    "method": "Tabu Search (tenure=5)",
+    "best_cost": 684.91,
+    "execution_time": 5.429,
+    "feasible": true,
+    "timestamp": "2026-01-19T20:43:25.794749",
+    "optimal": 661.0,
+    "gap": 3.62,
+    "solution": [
+      [
+        1,
+        23,
+        24,
+        7,
+        25,
+        1
+      ],
+      [
+        1,
+        3,
+        21,
+        5,
+        28,
+        31,
+        13,
+        1
+      ],
+      [
+        1,
+        30,
+        17,
+        4,
+        10,
+        18,
+        16,
+        1
+      ],
+      [
+        1,
+        12,
+        20,
+        15,
+        22,
+        2,
+        32,
+        19,
+        29,
+        1
+      ],
+      [
+        1,
+        33,
+        14,
+        9,
+        8,
+        27,
+        6,
+        26,
+        11,
+        1
+      ]
+    ],
+    "num_routes": 5,
+    "initial_cost": 978.1456610175788,
+    "iterations": 500,
+    "improvements": 20,
+    "aspiration_used": 0,
+    "tabu_tenure": 5,
+    "initial_method": "Nearest Neighbor"
+  },
+  {
+    "instance": "A-n33-k5",
+    "method": "Tabu Search (tenure=5)",
+    "best_cost": 697.16,
+    "execution_time": 6.3806,
+    "feasible": true,
+    "timestamp": "2026-01-19T20:43:32.177191",
+    "optimal": 661.0,
+    "gap": 5.47,
+    "solution": [
+      [
+        1,
+        23,
+        5,
+        14,
+        21,
+        3,
+        1
+      ],
+      [
+        1,
+        17,
+        4,
+        10,
+        18,
+        11,
+        13,
+        1
+      ],
+      [
+        1,
+        31,
+        26,
+        28,
+        6,
+        27,
+        8,
+        9,
+        33,
+        1
+      ],
+      [
+        1,
+        20,
+        15,
+        22,
+        2,
+        32,
+        30,
+        16,
+        1
+      ],
+      [
+        1,
+        25,
+        7,
+        12,
+        19,
+        29,
+        24,
+        1
+      ]
+    ],
+    "num_routes": 5,
+    "initial_cost": 712.0478209658985,
+    "iterations": 500,
+    "improvements": 4,
+    "aspiration_used": 0,
+    "tabu_tenure": 5,
+    "initial_method": "Savings"
+  },
+  {
+    "instance": "A-n33-k5",
+    "method": "Tabu Search (tenure=10)",
+    "best_cost": 684.91,
+    "execution_time": 3.385,
+    "feasible": true,
+    "timestamp": "2026-01-19T20:43:35.561912",
+    "optimal": 661.0,
+    "gap": 3.62,
+    "solution": [
+      [
+        1,
+        23,
+        24,
+        7,
+        25,
+        1
+      ],
+      [
+        1,
+        3,
+        21,
+        5,
+        28,
+        31,
+        13,
+        1
+      ],
+      [
+        1,
+        30,
+        17,
+        4,
+        10,
+        18,
+        16,
+        1
+      ],
+      [
+        1,
+        12,
+        20,
+        15,
+        22,
+        2,
+        32,
+        19,
+        29,
+        1
+      ],
+      [
+        1,
+        33,
+        14,
+        9,
+        8,
+        27,
+        6,
+        26,
+        11,
+        1
+      ]
+    ],
+    "num_routes": 5,
+    "initial_cost": 978.1456610175788,
+    "iterations": 500,
+    "improvements": 20,
+    "aspiration_used": 0,
+    "tabu_tenure": 10,
+    "initial_method": "Nearest Neighbor"
+  },
+  {
+    "instance": "A-n33-k5",
+    "method": "Tabu Search (tenure=10)",
+    "best_cost": 697.16,
+    "execution_time": 2.921,
+    "feasible": true,
+    "timestamp": "2026-01-19T20:43:38.483802",
+    "optimal": 661.0,
+    "gap": 5.47,
+    "solution": [
+      [
+        1,
+        23,
+        5,
+        14,
+        21,
+        3,
+        1
+      ],
+      [
+        1,
+        17,
+        4,
+        10,
+        18,
+        11,
+        13,
+        1
+      ],
+      [
+        1,
+        31,
+        26,
+        28,
+        6,
+        27,
+        8,
+        9,
+        33,
+        1
+      ],
+      [
+        1,
+        20,
+        15,
+        22,
+        2,
+        32,
+        30,
+        16,
+        1
+      ],
+      [
+        1,
+        25,
+        7,
+        12,
+        19,
+        29,
+        24,
+        1
+      ]
+    ],
+    "num_routes": 5,
+    "initial_cost": 712.0478209658985,
+    "iterations": 500,
+    "improvements": 4,
+    "aspiration_used": 0,
+    "tabu_tenure": 10,
+    "initial_method": "Savings"
+  },
+  {
+    "instance": "A-n33-k5",
+    "method": "Tabu Search (tenure=15)",
+    "best_cost": 684.91,
+    "execution_time": 2.8805,
+    "feasible": true,
+    "timestamp": "2026-01-19T20:43:41.364943",
+    "optimal": 661.0,
+    "gap": 3.62,
+    "solution": [
+      [
+        1,
+        23,
+        24,
+        7,
+        25,
+        1
+      ],
+      [
+        1,
+        3,
+        21,
+        5,
+        28,
+        31,
+        13,
+        1
+      ],
+      [
+        1,
+        30,
+        17,
+        4,
+        10,
+        18,
+        16,
+        1
+      ],
+      [
+        1,
+        12,
+        20,
+        15,
+        22,
+        2,
+        32,
+        19,
+        29,
+        1
+      ],
+      [
+        1,
+        33,
+        14,
+        9,
+        8,
+        27,
+        6,
+        26,
+        11,
+        1
+      ]
+    ],
+    "num_routes": 5,
+    "initial_cost": 978.1456610175788,
+    "iterations": 500,
+    "improvements": 20,
+    "aspiration_used": 1,
+    "tabu_tenure": 15,
+    "initial_method": "Nearest Neighbor"
+  },
+  {
+    "instance": "A-n33-k5",
+    "method": "Tabu Search (tenure=15)",
+    "best_cost": 697.16,
+    "execution_time": 4.136,
+    "feasible": true,
+    "timestamp": "2026-01-19T20:43:45.501087",
+    "optimal": 661.0,
+    "gap": 5.47,
+    "solution": [
+      [
+        1,
+        23,
+        5,
+        14,
+        21,
+        3,
+        1
+      ],
+      [
+        1,
+        17,
+        4,
+        10,
+        18,
+        11,
+        13,
+        1
+      ],
+      [
+        1,
+        31,
+        26,
+        28,
+        6,
+        27,
+        8,
+        9,
+        33,
+        1
+      ],
+      [
+        1,
+        20,
+        15,
+        22,
+        2,
+        32,
+        30,
+        16,
+        1
+      ],
+      [
+        1,
+        25,
+        7,
+        12,
+        19,
+        29,
+        24,
+        1
+      ]
+    ],
+    "num_routes": 5,
+    "initial_cost": 712.0478209658985,
+    "iterations": 500,
+    "improvements": 4,
+    "aspiration_used": 0,
+    "tabu_tenure": 15,
+    "initial_method": "Savings"
+  },
+  {
+    "instance": "A-n33-k5",
+    "method": "Simulated Annealing (\u03b1=0.99)",
+    "best_cost": 674.4,
+    "execution_time": 0.7293,
+    "feasible": true,
+    "timestamp": "2026-01-19T20:43:46.230765",
+    "optimal": 661.0,
+    "gap": 2.03,
+    "solution": [
+      [
+        1,
+        12,
+        32,
+        2,
+        22,
+        15,
+        20,
+        7,
+        25,
+        1
+      ],
+      [
+        1,
+        21,
+        5,
+        6,
+        28,
+        26,
+        31,
+        13,
+        1
+      ],
+      [
+        1,
+        16,
+        18,
+        10,
+        4,
+        17,
+        30,
+        1
+      ],
+      [
+        1,
+        23,
+        29,
+        19,
+        24,
+        1
+      ],
+      [
+        1,
+        3,
+        33,
+        14,
+        9,
+        8,
+        27,
+        11,
+        1
+      ]
+    ],
+    "num_routes": 5,
+    "initial_cost": 978.1456610175788,
+    "total_iterations": 45850,
+    "accepted": 19373,
+    "improvements": 72,
+    "cooling_rate": 0.99,
+    "initial_temp": 1000.0,
+    "initial_method": "Nearest Neighbor"
+  },
+  {
+    "instance": "A-n33-k5",
+    "method": "Simulated Annealing (\u03b1=0.99)",
+    "best_cost": 662.26,
+    "execution_time": 0.6981,
+    "feasible": true,
+    "timestamp": "2026-01-19T20:43:46.929934",
+    "optimal": 661.0,
+    "gap": 0.19,
+    "solution": [
+      [
+        1,
+        30,
+        17,
+        4,
+        10,
+        18,
+        16,
+        1
+      ],
+      [
+        1,
+        5,
+        28,
+        26,
+        31,
+        11,
+        13,
+        1
+      ],
+      [
+        1,
+        23,
+        29,
+        19,
+        24,
+        1
+      ],
+      [
+        1,
+        3,
+        33,
+        14,
+        9,
+        8,
+        27,
+        6,
+        21,
+        1
+      ],
+      [
+        1,
+        12,
+        32,
+        2,
+        22,
+        15,
+        20,
+        7,
+        25,
+        1
+      ]
+    ],
+    "num_routes": 5,
+    "initial_cost": 712.0478209658985,
+    "total_iterations": 45850,
+    "accepted": 19421,
+    "improvements": 21,
+    "cooling_rate": 0.99,
+    "initial_temp": 1000.0,
+    "initial_method": "Savings"
+  },
+  {
+    "instance": "A-n33-k5",
+    "method": "Simulated Annealing (\u03b1=0.995)",
+    "best_cost": 677.71,
+    "execution_time": 1.3686,
+    "feasible": true,
+    "timestamp": "2026-01-19T20:43:48.298585",
+    "optimal": 661.0,
+    "gap": 2.53,
+    "solution": [
+      [
+        1,
+        3,
+        33,
+        14,
+        9,
+        8,
+        27,
+        21,
+        1
+      ],
+      [
+        1,
+        16,
+        17,
+        4,
+        10,
+        18,
+        13,
+        1
+      ],
+      [
+        1,
+        20,
+        15,
+        22,
+        2,
+        30,
+        32,
+        19,
+        29,
+        1
+      ],
+      [
+        1,
+        23,
+        24,
+        12,
+        7,
+        25,
+        1
+      ],
+      [
+        1,
+        5,
+        6,
+        28,
+        26,
+        31,
+        11,
+        1
+      ]
+    ],
+    "num_routes": 5,
+    "initial_cost": 978.1456610175788,
+    "total_iterations": 91900,
+    "accepted": 37858,
+    "improvements": 52,
+    "cooling_rate": 0.995,
+    "initial_temp": 1000.0,
+    "initial_method": "Nearest Neighbor"
+  },
+  {
+    "instance": "A-n33-k5",
+    "method": "Simulated Annealing (\u03b1=0.995)",
+    "best_cost": 662.26,
+    "execution_time": 1.3978,
+    "feasible": true,
+    "timestamp": "2026-01-19T20:43:49.697071",
+    "optimal": 661.0,
+    "gap": 0.19,
+    "solution": [
+      [
+        1,
+        12,
+        32,
+        2,
+        22,
+        15,
+        20,
+        7,
+        25,
+        1
+      ],
+      [
+        1,
+        24,
+        19,
+        29,
+        23,
+        1
+      ],
+      [
+        1,
+        3,
+        33,
+        14,
+        9,
+        8,
+        27,
+        6,
+        21,
+        1
+      ],
+      [
+        1,
+        13,
+        11,
+        31,
+        26,
+        28,
+        5,
+        1
+      ],
+      [
+        1,
+        16,
+        18,
+        10,
+        4,
+        17,
+        30,
+        1
+      ]
+    ],
+    "num_routes": 5,
+    "initial_cost": 712.0478209658985,
+    "total_iterations": 91900,
+    "accepted": 38686,
+    "improvements": 15,
+    "cooling_rate": 0.995,
+    "initial_temp": 1000.0,
+    "initial_method": "Savings"
+  },
+  {
+    "instance": "A-n33-k5",
+    "method": "Simulated Annealing (\u03b1=0.999)",
+    "best_cost": 671.79,
+    "execution_time": 9.1536,
+    "feasible": true,
+    "timestamp": "2026-01-19T20:43:58.851249",
+    "optimal": 661.0,
+    "gap": 1.63,
+    "solution": [
+      [
+        1,
+        16,
+        18,
+        10,
+        4,
+        17,
+        30,
+        1
+      ],
+      [
+        1,
+        12,
+        32,
+        2,
+        22,
+        15,
+        20,
+        7,
+        25,
+        1
+      ],
+      [
+        1,
+        5,
+        27,
+        8,
+        9,
+        14,
+        21,
+        3,
+        1
+      ],
+      [
+        1,
+        13,
+        11,
+        31,
+        26,
+        28,
+        6,
+        33,
+        1
+      ],
+      [
+        1,
+        23,
+        29,
+        19,
+        24,
+        1
+      ]
+    ],
+    "num_routes": 5,
+    "initial_cost": 978.1456610175788,
+    "total_iterations": 460300,
+    "accepted": 194725,
+    "improvements": 64,
+    "cooling_rate": 0.999,
+    "initial_temp": 1000.0,
+    "initial_method": "Nearest Neighbor"
+  },
+  {
+    "instance": "A-n33-k5",
+    "method": "Simulated Annealing (\u03b1=0.999)",
+    "best_cost": 668.66,
+    "execution_time": 12.145,
+    "feasible": true,
+    "timestamp": "2026-01-19T20:44:10.997654",
+    "optimal": 661.0,
+    "gap": 1.16,
+    "solution": [
+      [
+        1,
+        12,
+        32,
+        2,
+        22,
+        15,
+        20,
+        7,
+        25,
+        1
+      ],
+      [
+        1,
+        30,
+        17,
+        4,
+        10,
+        18,
+        11,
+        1
+      ],
+      [
+        1,
+        16,
+        13,
+        31,
+        26,
+        28,
+        6,
+        21,
+        1
+      ],
+      [
+        1,
+        3,
+        33,
+        14,
+        9,
+        8,
+        27,
+        5,
+        1
+      ],
+      [
+        1,
+        24,
+        19,
+        29,
+        23,
+        1
+      ]
+    ],
+    "num_routes": 5,
+    "initial_cost": 712.0478209658985,
+    "total_iterations": 460300,
+    "accepted": 194123,
+    "improvements": 25,
+    "cooling_rate": 0.999,
+    "initial_temp": 1000.0,
+    "initial_method": "Savings"
+  }
+]
